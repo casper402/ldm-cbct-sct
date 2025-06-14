@@ -1,0 +1,12 @@
+torch==2.6.0
+torchvision==0.21.0
+torchmetrics==1.7.1
+numpy==2.2.5
+pandas==2.2.3
+matplotlib==3.10.1
+scikit-image==0.25.2
+scipy==1.15.3
+piq==0.8.0
+tqdm==4.67.1
+PyYAML==6.0.2
+pillow==11.2.1

@@ -1,2 +1,6 @@
-# ldm-cbct-sct
-This repository contains the official code for a project exploring advanced conditional Latent Diffusion Models for synthetic CT (sCT) generation from Cone-Beam CT (CBCT) scans. The goal is to produce dosimetrically accurate sCTs suitable for clinical use in Adaptive Radiation Therapy (ART) workflows.
+# Latent Diffusion Models for CBCT-to-sCT Image-to-Image Translation
+This repository contains the source code for our Master's thesis of the same name.
+
+## Authors
+- [@casper402](https://github.com/casper402/)
+- [@NiklasAavad](https://www.github.com/NiklasAavad)
